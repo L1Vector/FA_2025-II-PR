@@ -10,7 +10,7 @@ namespace SEMANA_1_C_
     {
         static void Main(string[] args)
         {
-            ejer2();
+            ejer3();
             Console.ReadKey();
         }
         static void ejer1()
@@ -44,10 +44,16 @@ namespace SEMANA_1_C_
             Console.WriteLine("Multiplicación: " + (x * y));
             Console.WriteLine("División: " + resu);
 
-
         }
         static void ejer3()
         {
+            Console.Write("Ingrese un número decimal: ");
+            double num = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("Raíz cuadrada: " + Math.Sqrt(num));
+            Console.WriteLine("Redondeo: " + (int)Math.Round(num)); //Esto Redondea al entero más cercano);
+            Console.WriteLine("Elevado al cubo: " + Math.Pow(num, 3));
+            Console.WriteLine("Raíz cúbica: " + Math.Pow(num, 1/3d));//Math.Pow es la forma de interpretar la elevación de un número ^
 
         }
         static void ejer4()
