@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Remoting.Services;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,7 +11,7 @@ namespace SEMANA_1_C_
     {
         static void Main(string[] args)
         {
-            ejer3();
+            ejer4();
             Console.ReadKey();
         }
         static void ejer1()
@@ -58,7 +59,14 @@ namespace SEMANA_1_C_
         }
         static void ejer4()
         {
+            Console.Write("Ingresar número: ");
+            string num = Console.ReadLine();
 
+            double deci = double.Parse(num); //Conversión de digito en formato string a double
+            int entero = (int)Math.Round(deci);
+
+            Console.WriteLine("Resto de división entre 2 = " + (entero % 2));
+            Console.WriteLine("Cociente de división entre 3 = " + (deci / 3));
         }
         static void ejer5()
         {
