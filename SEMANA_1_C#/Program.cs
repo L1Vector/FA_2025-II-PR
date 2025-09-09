@@ -38,7 +38,7 @@ namespace SEMANA_1_C_
             Console.Write("Ingrese numero y: ");
             int y = int.Parse(Console.ReadLine());
 
-            double resu = x / y;
+            double resu = (double)x / (double)y;
 
             Console.WriteLine("Suma: " + (x+y));
             Console.WriteLine("Resta: " + (x - y));
@@ -66,7 +66,7 @@ namespace SEMANA_1_C_
             int entero = (int)Math.Round(deci);
 
             Console.WriteLine("Resto de división entre 2 = " + (entero % 2));
-            Console.WriteLine("Cociente de división entre 3 = " + (deci / 3));
+            Console.WriteLine("Cociente de división entre 3 = " + ((double)deci / 3));
         }
         static void ejer5()
         {

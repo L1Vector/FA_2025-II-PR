@@ -4,5 +4,13 @@ def ejer1():
     carrera = input("Ingrese su carrera: ")
 
     print(f"\n{nombre}, bienvenido a Fa de {carrera}") 
+def ejer2():
+    x = int(input("Ingrese el valor de x: "))
+    y = int(input("Ingrese el valor de y: "))
 
-ejer1()
+    print("Suma: ", (x+y))
+    print("Resta: ", (x-y))
+    print("Multiplicación: ", (x*y))
+    print("División: ", (x/y))
+
+ejer2()
