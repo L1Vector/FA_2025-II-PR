@@ -5,6 +5,8 @@ def ejer1():
 
     print(f"\n{nombre}, bienvenido a Fa de {carrera}") 
 def ejer2():
+    print("\"\"Luis\"\"" #Así puedes ingresar comillas dobles)
+def ejer3():
     x = int(input("Ingrese el valor de x: "))
     y = int(input("Ingrese el valor de y: "))
 
@@ -12,7 +14,7 @@ def ejer2():
     print("Resta: ", (x-y))
     print("Multiplicación: ", (x*y))
     print("División: ", (x/y))
-def ejer3():
+def ejer4():
     num = float(input)
 
 ejer3()
