@@ -11,7 +11,7 @@ namespace SEMANA_1_C_
     {
         static void Main(string[] args)
         {
-            ejer5();
+            ejer2();
             Console.ReadKey();
         }
         static void ejer1()
@@ -32,6 +32,11 @@ namespace SEMANA_1_C_
         }
         static void ejer2()
         {
+            Console.WriteLine("\"Vector\"");
+        }
+
+        static void ejer3()
+        {
             Console.Write("Ingrese numero x: ");
             int x = int.Parse(Console.ReadLine());
            
@@ -46,7 +51,7 @@ namespace SEMANA_1_C_
             Console.WriteLine("División: " + resu);
 
         }
-        static void ejer3()
+        static void ejer4()
         {
             Console.Write("Ingrese un número decimal: ");
             double num = double.Parse(Console.ReadLine());
@@ -57,7 +62,7 @@ namespace SEMANA_1_C_
             Console.WriteLine("Raíz cúbica: " + Math.Pow(num, 1/3d));//Math.Pow es la forma de interpretar la elevación de un número ^
 
         }
-        static void ejer4()
+        static void ejer5()
         {
             Console.Write("Ingresar número: ");
             string num = Console.ReadLine();
@@ -68,7 +73,7 @@ namespace SEMANA_1_C_
             Console.WriteLine("Resto de división entre 2 = " + (entero % 2));
             Console.WriteLine("Cociente de división entre 3 = " + ((double)deci / 3));
         }
-        static void ejer5()
+        static void ejer6()
         {
             Console.Write("Ingresar cantidad en segundos: ");
             int seg = int.Parse(Console.ReadLine());

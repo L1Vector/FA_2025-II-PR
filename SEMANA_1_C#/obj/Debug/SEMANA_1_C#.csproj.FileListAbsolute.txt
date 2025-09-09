@@ -14,3 +14,11 @@ C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Ing Sistemas\Funciones a
 C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Ing Sistemas\Funciones algoritmicas\Clon\FA_2025-II-PR\SEMANA_1_C#\bin\Debug\SEMANA_1_C#.exe.config
 C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Ing Sistemas\Funciones algoritmicas\Clon\FA_2025-II-PR\SEMANA_1_C#\bin\Debug\SEMANA_1_C#.exe
 C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Ing Sistemas\Funciones algoritmicas\Clon\FA_2025-II-PR\SEMANA_1_C#\bin\Debug\SEMANA_1_C#.pdb
+C:\Users\UPN\Desktop\FA_SEM_4\FA_2025-II-PR\SEMANA_1_C#\bin\Debug\SEMANA_1_C#.exe.config
+C:\Users\UPN\Desktop\FA_SEM_4\FA_2025-II-PR\SEMANA_1_C#\bin\Debug\SEMANA_1_C#.exe
+C:\Users\UPN\Desktop\FA_SEM_4\FA_2025-II-PR\SEMANA_1_C#\bin\Debug\SEMANA_1_C#.pdb
+C:\Users\UPN\Desktop\FA_SEM_4\FA_2025-II-PR\SEMANA_1_C#\obj\Debug\SEMANA_1_C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FA_SEM_4\FA_2025-II-PR\SEMANA_1_C#\obj\Debug\SEMANA_1_C#.exe.config
+C:\Users\UPN\Desktop\FA_SEM_4\FA_2025-II-PR\SEMANA_1_C#\obj\Debug\SEMANA_1_C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FA_SEM_4\FA_2025-II-PR\SEMANA_1_C#\obj\Debug\SEMANA_1_C#.exe
+C:\Users\UPN\Desktop\FA_SEM_4\FA_2025-II-PR\SEMANA_1_C#\obj\Debug\SEMANA_1_C#.pdb

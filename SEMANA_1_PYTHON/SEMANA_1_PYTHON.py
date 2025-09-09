@@ -12,5 +12,7 @@ def ejer2():
     print("Resta: ", (x-y))
     print("Multiplicación: ", (x*y))
     print("División: ", (x/y))
+def ejer3():
+    num = float(input)
 
-ejer2()
+ejer3()
