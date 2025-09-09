@@ -23,6 +23,13 @@ def ejer4():
     print("Raíz cuadrada: ", math.sqrt(num))
     print("Redondeo: ", round(num))
     print("Al cubo: ", math.pow(num, 3))
-    print("Raiz3: ", math.pow(num, 1/3))
+    print("Raiz3: ", math.pow(num, 1/3)) #Tambien su puede escribir num ** (1/3) para dar potencia a num de 1/3
+def ejer5():
+    num = input("Ingresar número: ")
+    deci = float(num)
+    entero = round(deci)
 
-ejer4()
+    print("Resto de división con 2: ", entero%2)
+    print("Cociente de división con 3: ", deci//3)
+
+ejer5()
