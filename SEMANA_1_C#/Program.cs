@@ -34,7 +34,6 @@ namespace SEMANA_1_C_
         {
             Console.WriteLine("\"Vector\"");
         }
-
         static void ejer3()
         {
             Console.Write("Ingrese numero x: ");
