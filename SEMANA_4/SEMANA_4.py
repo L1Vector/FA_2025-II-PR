@@ -35,4 +35,35 @@ def ejer3():
         else:
             print("Opción invalida")
 
-ejer3()
+import math
+
+def ejer4():
+    print("Seleccione el área de la figura que desee calcular: ")
+    print("[1] Área de un cuadrado")
+    print("[2] Área de un rectángulo")
+    print("[3] Área de un triángulo")
+    print("[4] Área de un círculo")
+    opción = input("Opción: ")
+
+    if opción == "1":
+        lado = float(input("Ingresar un lado: "))
+        
+        print("Área de un cuadrado: ", math.pow(lado, 2))
+    elif opción == "2":
+        base = float(input("Ingresar base: "))
+        altura = float(input("Ingresar altura: "))
+
+        print("Área del rectángulo: ", base * altura)
+    elif opción == "3":
+        base = float(input("Ingresar base: "))
+        altura = float(input("Ingresar altura: "))
+
+        print("Área del Triángulo: ", (base * altura)/2)
+    elif opción == "4":
+        radio = float(input("Ingresar radio: "))
+
+        print("Área del círculo: ", (math.pow(radio, 2)*math.pi))
+    else:
+        print("Valor ingresado incorrecto")
+
+ejer4()
