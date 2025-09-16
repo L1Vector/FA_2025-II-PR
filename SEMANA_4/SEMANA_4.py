@@ -29,9 +29,9 @@ def ejer3():
     opción = int(input("Opción: "))
 
     match opción: 
-        case "1":
+        case 1:
             print("Dólares: ", round((monto/3.75),0))
-        case "2":
+        case 2:
             print(f"Euros: {monto/4.05:.2f}")
         case _:
             print("Opción invalida")
@@ -42,28 +42,28 @@ def ejer4():
     print("Bienvenido al sistema de cálculos de áreas: ")
     print("\n1. Área de un cuadrado \n2. Área de un rectángulo \n3. Área de un triángulo \n4. Área de un círculo")
     
-    opción = int(input("Ingrese una opción: "))
+    opción = int(input("\nIngrese una opción: "))
 
     match opción: 
-        case "1":
-            lado = float(input("Ingresar un lado: "))
-            print("Área de un cuadrado: ", math.pow(lado, 2))
+        case 1:
+            lado = float(input("\nIngresar un lado: "))
+            print("\nÁrea de un cuadrado: ", math.pow(lado, 2))
         
-        case "2":
-            base = float(input("Ingresar base: "))
+        case 2:
+            base = float(input("\nIngresar base: "))
             altura = float(input("Ingresar altura: "))
 
-            print("Área del rectángulo: ", base * altura)
-        case "3":
-            base = float(input("Ingresar base: "))
+            print("\nÁrea del rectángulo: ", base * altura)
+        case 3:
+            base = float(input("\nIngresar base: "))
             altura = float(input("Ingresar altura: "))
 
-            print("Área del Triángulo: ", (base * altura)/2)
-        case "4":
-            radio = float(input("Ingresar radio: "))
+            print("\nÁrea del Triángulo: ", (base * altura)/2)
+        case 4:
+            radio = float(input("\nIngresar radio: "))
 
-            print("Área del círculo: ", (math.pow(radio, 2)*math.pi))
+            print("\nÁrea del círculo: ", (math.pow(radio, 2)*math.pi))
         case _:
-            print("Valor ingresado incorrecto")
+            print("\nValor ingresado incorrecto")
 
 ejer4()
