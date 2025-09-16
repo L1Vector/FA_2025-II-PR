@@ -8,17 +8,19 @@
             print("Adulto")
         else:
            print("Adulto mayor")
-def ejer2():
-    año = int(input("Ingresar un año: "))
 
-    if (año%4 == 0 and año % 100 != 0) or (año%400 == 0):
+def ejer2():
+    anio = int(input("Ingresar un año: "))
+
+    if (anio%4 == 0 and anio % 100 != 0) or (anio%400 == 0):
         print("El año es Bisiesto.")
     else:
         print("El año no es bisiesto")
-    if (año%2 == 0):
+    if (anio%2 == 0):
         print("El año es par.")
     else:
         print("El año es impar.")
+
 def ejer3():
     monto = float(input("Ingresar monto: "))
 
