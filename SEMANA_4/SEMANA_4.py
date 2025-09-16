@@ -22,19 +22,18 @@ def ejer2():
         print("El año es impar.")
 
 def ejer3():
-    monto = float(input("Ingresar monto: "))
+    monto = float(input("Ingresar monto en soles: "))
 
     print("Selecciona la moneda a la que desea convertirla:")
-    print("[1] Dólares (USD) - 1 USD = 3.75 PEN")
-    print("[2] Euros (EUR) - 1 EUR = 4.05 PEN")
-    opción = input("Opción: ")
+    print("\n1. Dólares \n2. Euros")
+    opción = int(input("Opción: "))
 
-    if opción == "1":
-        print("Monto final en Dólares: ", (monto/3.75))
-    else: 
-        if opción == "2":
+    match opción: 
+        case "1":
+            print("Monto final en Dólares: ", (monto/3.75))
+        case "2":
             print("Monto final en Euros: ", (monto/4.05))
-        else:
+        case _:
             print("Opción invalida")
 
 import math
