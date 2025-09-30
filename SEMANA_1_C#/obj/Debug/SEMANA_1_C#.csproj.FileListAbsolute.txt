@@ -30,3 +30,11 @@ C:\Users\UPN\Downloads\FA_2025-II-PR\SEMANA_1_C#\obj\Debug\SEMANA_1_C#.exe.confi
 C:\Users\UPN\Downloads\FA_2025-II-PR\SEMANA_1_C#\obj\Debug\SEMANA_1_C#.csproj.CoreCompileInputs.cache
 C:\Users\UPN\Downloads\FA_2025-II-PR\SEMANA_1_C#\obj\Debug\SEMANA_1_C#.exe
 C:\Users\UPN\Downloads\FA_2025-II-PR\SEMANA_1_C#\obj\Debug\SEMANA_1_C#.pdb
+C:\Users\UPN\Desktop\FA_2025-II-PR\SEMANA_1_C#\bin\Debug\SEMANA_1_C#.exe.config
+C:\Users\UPN\Desktop\FA_2025-II-PR\SEMANA_1_C#\bin\Debug\SEMANA_1_C#.exe
+C:\Users\UPN\Desktop\FA_2025-II-PR\SEMANA_1_C#\bin\Debug\SEMANA_1_C#.pdb
+C:\Users\UPN\Desktop\FA_2025-II-PR\SEMANA_1_C#\obj\Debug\SEMANA_1_C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FA_2025-II-PR\SEMANA_1_C#\obj\Debug\SEMANA_1_C#.exe.config
+C:\Users\UPN\Desktop\FA_2025-II-PR\SEMANA_1_C#\obj\Debug\SEMANA_1_C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FA_2025-II-PR\SEMANA_1_C#\obj\Debug\SEMANA_1_C#.exe
+C:\Users\UPN\Desktop\FA_2025-II-PR\SEMANA_1_C#\obj\Debug\SEMANA_1_C#.pdb
