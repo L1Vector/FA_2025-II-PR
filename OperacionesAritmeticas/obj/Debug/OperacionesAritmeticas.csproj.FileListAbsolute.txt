@@ -1,0 +1,6 @@
+C:\Users\UPN\Desktop\Simulacro\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.dll
+C:\Users\UPN\Desktop\Simulacro\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.pdb
+C:\Users\UPN\Desktop\Simulacro\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Simulacro\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Simulacro\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.dll
+C:\Users\UPN\Desktop\Simulacro\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.pdb

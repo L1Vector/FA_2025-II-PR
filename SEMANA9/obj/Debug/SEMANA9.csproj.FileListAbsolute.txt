@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\Simulacro\SEMANA9\bin\Debug\SEMANA9.exe.config
+C:\Users\UPN\Desktop\Simulacro\SEMANA9\bin\Debug\SEMANA9.exe
+C:\Users\UPN\Desktop\Simulacro\SEMANA9\bin\Debug\SEMANA9.pdb
+C:\Users\UPN\Desktop\Simulacro\SEMANA9\obj\Debug\SEMANA9.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Simulacro\SEMANA9\obj\Debug\SEMANA9.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Simulacro\SEMANA9\obj\Debug\SEMANA9.exe
+C:\Users\UPN\Desktop\Simulacro\SEMANA9\obj\Debug\SEMANA9.pdb
+C:\Users\UPN\Desktop\Simulacro\SEMANA9\obj\Debug\SEMANA9.exe.config
+C:\Users\UPN\Desktop\Simulacro\SEMANA9\bin\Debug\OperacionesAritmeticas.dll
+C:\Users\UPN\Desktop\Simulacro\SEMANA9\bin\Debug\OperacionesAritmeticas.pdb
+C:\Users\UPN\Desktop\Simulacro\SEMANA9\obj\Debug\SEMANA9.csproj.Up2Date
