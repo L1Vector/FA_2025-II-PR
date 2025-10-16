@@ -33,14 +33,10 @@ namespace SEMANA9
             return Numero;
         }
 
-        private static void IngresaNumero()
+        private static int IngresaNumero()
         {
-            int valor1,valor2; 
             Console.Write("Ingrese el primer número: ");
-            valor1 = int.Parse(Console.ReadLine());
-            Console.Write("Ingrese el segundo número: ");
-            valor2 = int.Parse(Console.ReadLine());
-            
+            int valor1 = int.Parse(Console.ReadLine());            
         }
 
         //Creamos el método para operar
