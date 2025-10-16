@@ -36,7 +36,7 @@ namespace SEMANA9
         private static int IngresaNumero()
         {
             Console.Write("Ingrese el primer número: ");
-            int valor1 = int.Parse(Console.ReadLine());            
+            int valor = int.Parse(Console.ReadLine());            
         }
 
         //Creamos el método para operar
