@@ -25,7 +25,6 @@ namespace SEMANA9
                 {
                     Console.WriteLine("Ingresó un número no válido, Vuelve a ingresar.");
                     Console.WriteLine("Presione cualquier tecla para continuar....");
-                    Console.WriteLine("Hola Luis, que onda");
                     Console.ReadKey();
                     Console.Clear();
                 }
